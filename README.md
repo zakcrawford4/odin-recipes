@@ -1,1 +1,2 @@
 # odin-recipes
+This is an HTMl project involving me building my own recipe site. In this site i will demonstrate skills such as HTMl elements and tags, incorporating an HTML boilerplate, working with text such as paragraphs and headings, making lists, inserting links and images, and writing commit messages. 
